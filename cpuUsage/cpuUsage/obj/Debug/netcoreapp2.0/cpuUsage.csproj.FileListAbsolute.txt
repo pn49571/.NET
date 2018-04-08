@@ -1,4 +1,0 @@
-C:\Users\Sai\source\repos\cpuUsage\cpuUsage\obj\Debug\netcoreapp2.0\cpuUsage.csprojResolveAssemblyReference.cache
-C:\Users\Sai\source\repos\cpuUsage\cpuUsage\obj\Debug\netcoreapp2.0\cpuUsage.csproj.CoreCompileInputs.cache
-C:\Users\Sai\source\repos\cpuUsage\cpuUsage\obj\Debug\netcoreapp2.0\cpuUsage.AssemblyInfoInputs.cache
-C:\Users\Sai\source\repos\cpuUsage\cpuUsage\obj\Debug\netcoreapp2.0\cpuUsage.AssemblyInfo.cs
