@@ -1,0 +1,7 @@
+c:\users\sai\source\repos\Sums_in_loop\Sums_in_loop\bin\Debug\Sums_in_loop.exe.config
+c:\users\sai\source\repos\Sums_in_loop\Sums_in_loop\bin\Debug\Sums_in_loop.exe
+c:\users\sai\source\repos\Sums_in_loop\Sums_in_loop\bin\Debug\Sums_in_loop.pdb
+c:\users\sai\source\repos\Sums_in_loop\Sums_in_loop\obj\Debug\Sums_in_loop.csprojResolveAssemblyReference.cache
+c:\users\sai\source\repos\Sums_in_loop\Sums_in_loop\obj\Debug\Sums_in_loop.csproj.CoreCompileInputs.cache
+c:\users\sai\source\repos\Sums_in_loop\Sums_in_loop\obj\Debug\Sums_in_loop.exe
+c:\users\sai\source\repos\Sums_in_loop\Sums_in_loop\obj\Debug\Sums_in_loop.pdb

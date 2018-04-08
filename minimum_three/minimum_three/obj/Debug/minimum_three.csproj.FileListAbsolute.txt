@@ -1,0 +1,7 @@
+c:\users\sai\source\repos\minimum_three\minimum_three\bin\Debug\minimum_three.exe.config
+c:\users\sai\source\repos\minimum_three\minimum_three\bin\Debug\minimum_three.exe
+c:\users\sai\source\repos\minimum_three\minimum_three\bin\Debug\minimum_three.pdb
+c:\users\sai\source\repos\minimum_three\minimum_three\obj\Debug\minimum_three.csprojResolveAssemblyReference.cache
+c:\users\sai\source\repos\minimum_three\minimum_three\obj\Debug\minimum_three.csproj.CoreCompileInputs.cache
+c:\users\sai\source\repos\minimum_three\minimum_three\obj\Debug\minimum_three.exe
+c:\users\sai\source\repos\minimum_three\minimum_three\obj\Debug\minimum_three.pdb

@@ -1,0 +1,6 @@
+c:\users\sai\source\repos\Max_min_array\Max_min_array\bin\Debug\Max_min_array.exe.config
+c:\users\sai\source\repos\Max_min_array\Max_min_array\bin\Debug\Max_min_array.exe
+c:\users\sai\source\repos\Max_min_array\Max_min_array\bin\Debug\Max_min_array.pdb
+c:\users\sai\source\repos\Max_min_array\Max_min_array\obj\Debug\Max_min_array.csproj.CoreCompileInputs.cache
+c:\users\sai\source\repos\Max_min_array\Max_min_array\obj\Debug\Max_min_array.exe
+c:\users\sai\source\repos\Max_min_array\Max_min_array\obj\Debug\Max_min_array.pdb
